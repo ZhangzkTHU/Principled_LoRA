@@ -13,3 +13,4 @@ __MACOSX
 *.sh
 results
 data
+log_new/
